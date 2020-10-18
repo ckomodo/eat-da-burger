@@ -11,7 +11,7 @@ Handlebars, HTML, CSS, Node, MySQL
 https://cw-burger-app.herokuapp.com/
 
 Screenshot of site
-![homepage screenshot]()
+![homepage screenshot](images/eat-da-burger-homepage.png)
 
 # Author
 Chris Sakwa Wesonga is a full stack web developer in Seattle, WA.
