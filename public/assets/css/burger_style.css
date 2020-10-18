@@ -1,23 +1,21 @@
 body {
   background-color: hsl(40, 100%, 72%);
   margin-left: 50%;
-  clip-path: polygon(0 0, 100% 0, 100% 60%, 1% 100%, 0% 38%);
+  clip-path: polygon(0 0, 100% 0, 100% 96%, 0 100%, 0% 38%);
   font-family: 'Itim', cursive;
 }
 
-
+h1{
+  font-weight: bold;
+  animation: blink 3s linear infinite;
+  color: #09ec41;
+  font-size: xx-large;
+}
 @keyframes blink {
   0%{opacity: 0;}
   50%{opacity: 0.5;}
   100%{opacity: 1;}
 }
-.blink > h1{
-  font-weight: bold;
-  animation: blink 3s linear infinite;
-  color: #ee6f57;
-  font-size: xx-large;
-}
-
 
 li {
   padding: 5px;
