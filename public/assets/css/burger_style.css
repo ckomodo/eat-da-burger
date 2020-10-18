@@ -1,14 +1,14 @@
 body {
   background-color: hsl(40, 100%, 72%);
-  margin-left: 50%;
-  clip-path: polygon(0 0, 100% 0, 100% 96%, 0 100%, 0% 38%);
+  margin-left: 20%;
+  /* clip-path: polygon(0 0, 100% 0, 100% 96%, 0 100%, 0% 38%); */
   font-family: 'Itim', cursive;
 }
 
 h1{
   font-weight: bold;
   animation: blink 3s linear infinite;
-  color: #09ec41;
+  color: #f10606;
   font-size: xx-large;
 }
 @keyframes blink {
